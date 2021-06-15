@@ -922,7 +922,7 @@ Graphs can be used to represent many problems in computer science, so this secti
         - [ ] prototype
         - [ ] decorator
         - [ ] visitor
-        - [ ] factory, abstract factory
+        - [x] factory, abstract factory
         - [ ] facade
         - [ ] observer
         - [ ] proxy
@@ -987,7 +987,7 @@ Graphs can be used to represent many problems in computer science, so this secti
     - [ ] Computer Science 162 - Operating Systems (25 videos):
         - for processes and threads see videos 1-11
         - [Operating Systems and System Programming (video)](https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iBDyz-ba4yDskqMDY6A1w_c)
-    - [What Is The Difference Between A Process And A Thread?](https://www.quora.com/What-is-the-difference-between-a-process-and-a-thread)
+    - [x] [What Is The Difference Between A Process And A Thread?](https://www.quora.com/What-is-the-difference-between-a-process-and-a-thread)
     - Covers:
         - Processes, Threads, Concurrency issues
             - Difference between processes and threads
@@ -1077,8 +1077,8 @@ Graphs can be used to represent many problems in computer science, so this secti
     - [x] [What Every Programmer Absolutely, Positively Needs To Know About Encodings And Character Sets To Work With Text](http://kunststube.net/encoding/)
 
 - ### Endianness
-    - [ ] [Big And Little Endian](https://web.archive.org/web/20180107141940/http://www.cs.umd.edu:80/class/sum2003/cmsc311/Notes/Data/endian.html)
-    - [ ] [Big Endian Vs Little Endian (video)](https://www.youtube.com/watch?v=JrNF0KRAlyo)
+    - [x] [Big And Little Endian](https://web.archive.org/web/20180107141940/http://www.cs.umd.edu:80/class/sum2003/cmsc311/Notes/Data/endian.html)
+    - [x] [Big Endian Vs Little Endian (video)](https://www.youtube.com/watch?v=JrNF0KRAlyo)
     - [ ] [Big And Little Endian Inside/Out (video)](https://www.youtube.com/watch?v=oBSuXP-1Tc0)
         - Very technical talk for kernel devs. Don't worry if most is over your head.
         - The first half is enough.
